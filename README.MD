@@ -7,3 +7,5 @@ This is the text from feature 1
 ###second coomit in feature2
 
 ###third commit in feature 2
+
+#######commit 1 feature 3
